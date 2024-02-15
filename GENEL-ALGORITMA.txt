@@ -1,0 +1,19 @@
+﻿
+
+Arkadaşlar selam. Buraya bakıyor musunuz bilmiyorum ama eğer bakıyorsanız şunu asla unutmayın.
+
+
+-----> CONTROLLER SERVIS METOTLARINI KULLANIR.
+
+
+-----> SERVIS METOTLARI REPOSITORY METOTLARINI KULLANIR.
+
+
+-----> REPOSITORY DBCONTEXT METOTLARINI KULLANILIR.
+
+---- Sevgiler -----
+
+
+EK NOT => 
+
+Projede kullandığınız Generic Repository - Service/Manager yapıları gelen parametreler üzerinden şekillendiği için başka projelere de çok rahat adapte olabilir.
